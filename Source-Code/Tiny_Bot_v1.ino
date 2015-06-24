@@ -10,7 +10,7 @@ Tiny Bot: an LDR based light following robot, or avoidance bot
  Written by:
  Reece May 
  rev1 12/15/14
- https://ziggyelectronics.blogspot.com
+ https://bariumelectronics.blogspot.com
 
 You may use the code and modify it as long as you keep the above
 and make edit notes bellow and put it on github here:
