@@ -13,6 +13,6 @@ I plan to change it over to to correct C++ in months to come to shrink code size
 Design 
 ========
 
-The design can be found at http://ziggyelectronics.blogspot.com/2014/12/tiny-bot.html
+The design can be found at http://bariumelectronics.blogspot.com/2014/12/tiny-bot.html
 
 Please feel free to edit and share your ideas :)
